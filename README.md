@@ -13,7 +13,19 @@ from box_space import box_space
 box_space()
 ```
 
+## Local Install
+Before uploading our package to PyPI we can confirm that our package can be installed via pip install by navigating to our package directory and entering:
+
+```
+cd box_space_python_package
+pip install .
+```
 
 ## License
 
 MIT
+
+## resources 
+- [How to Package Your Python Code](https://towardsdatascience.com/how-to-package-your-python-code-df5a7739ab2e)
+- [Packaging Python Projects](https://packaging.python.org/en/latest/tutorials/packaging-projects/)
+
