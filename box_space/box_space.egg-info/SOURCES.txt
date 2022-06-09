@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.py
+box_space/ee-er-sound-effect.mp3
+box_space/box_space.egg-info/PKG-INFO
+box_space/box_space.egg-info/SOURCES.txt
+box_space/box_space.egg-info/dependency_links.txt
+box_space/box_space.egg-info/requires.txt
+box_space/box_space.egg-info/top_level.txt
