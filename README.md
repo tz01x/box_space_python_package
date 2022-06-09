@@ -1,5 +1,19 @@
-# Example Package
+# Box Space
 
-This is a simple example package. You can use
-[Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-to write your content.
+This is a simple  python package.
+
+## Features
+  - play a [EE ER sound effect](https://www.youtube.com/watch?v=kWI9CIfWwSk) when space button is press
+
+## Code Example 
+
+```
+#test_script.py
+from box_space import box_space 
+box_space()
+```
+
+
+## License
+
+MIT
