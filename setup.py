@@ -7,13 +7,13 @@ setuptools.setup(
     name="box_space",
     version="0.0.1",
     author="tumzied",
-    author_email="tumziedrahman@gmial.com",
+    author_email="abdur963rahman@gmial.com",
     description="A small box in space play ee-err",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/tz01x/box_space_python_package",
     project_urls={
-        "Bug Tracker": "https://github.com/pypa/sampleproject/issues",
+        "Bug Tracker": "https://github.com/tz01x/box_space_python_package",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
